@@ -9,23 +9,22 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-         
         if(head==NULL){
             return false;
         }
-        //created a map for valuse pair of
-        map<ListNode*,bool>mymap;
-
-        while(head!=NULL){
-            //herenote
-            if(mymap[head]==true){
+        //FLOYD DETECT CYCLE
+        ListNode*slow=head;
+        ListNode*fast=head;
+        while(fast!=NULL){
+            fast=fast->next;
+            if(fast!=NULL){
+                fast=fast->next;
+                slow=slow->next;
+            }
+            if(slow==fast){
                 return true;
             }
-            mymap[head]=true;
-            //now its a time to upadate the head
-            head=head->next;
         }
         return false;
-        
     }
-};
+}; 
