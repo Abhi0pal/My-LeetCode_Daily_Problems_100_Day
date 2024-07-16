@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhi0pal/My-LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/Abhi0pal/My-LeetCode/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/Abhi0pal/My-LeetCode/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
