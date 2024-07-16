@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/Abhi0pal/My-LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/2058-concatenation-of-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhi0pal/My-LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## String
@@ -35,5 +36,6 @@
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/Abhi0pal/My-LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
