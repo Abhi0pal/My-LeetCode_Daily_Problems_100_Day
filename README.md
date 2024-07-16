@@ -18,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/2058-concatenation-of-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhi0pal/My-LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## String
 |  |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [2384-root-equals-sum-of-children](https://github.com/Abhi0pal/My-LeetCode/tree/master/2384-root-equals-sum-of-children) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
