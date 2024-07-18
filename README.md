@@ -49,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abhi0pal/My-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Abhi0pal/My-LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abhi0pal/My-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
