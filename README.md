@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [1580-shuffle-the-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Abhi0pal/My-LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhi0pal/My-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
