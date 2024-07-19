@@ -34,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhi0pal/My-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhi0pal/My-LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Tree
 |  |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abhi0pal/My-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhi0pal/My-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
