@@ -1,9 +1,9 @@
 class Solution {
 public:
     string removeDuplicates(string s) {
-        stack<int>st;
+        stack<char>st;
         for(auto i:s){
-            if(!st.empty()&&i==st.top()){
+            if(!st.empty()&&st.top()==i){
                 st.pop();
             }
             else{
@@ -17,7 +17,6 @@ public:
         }
         reverse(str.begin(),str.end());
         return str;
-      
 
         
     }
