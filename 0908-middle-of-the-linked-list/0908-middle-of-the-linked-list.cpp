@@ -21,12 +21,22 @@ int length(ListNode* head){
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        int len=length(head)/2;
-        ListNode* temp=head;
-        while(len--){
-            temp=temp->next;
+        // int len=length(head)/2;
+        // ListNode* temp=head;
+        // while(len--){
+        //     temp=temp->next;
+        // }
+        // return temp; 
+        
+
+        // second approuch
+         ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast!=NULL&&fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
         }
-        return temp;   
+        return slow;
         
     }
 };
