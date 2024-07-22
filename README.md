@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhi0pal/My-LeetCode/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/Abhi0pal/My-LeetCode/tree/master/0898-transpose-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/Abhi0pal/My-LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abhi0pal/My-LeetCode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Abhi0pal/My-LeetCode/tree/master/0048-rotate-image) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abhi0pal/My-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Abhi0pal/My-LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
@@ -90,5 +92,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhi0pal/My-LeetCode/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/Abhi0pal/My-LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
