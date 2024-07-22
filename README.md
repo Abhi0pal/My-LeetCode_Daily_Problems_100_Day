@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Abhi0pal/My-LeetCode/tree/master/0898-transpose-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/Abhi0pal/My-LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhi0pal/My-LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -47,6 +48,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Abhi0pal/My-LeetCode/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Abhi0pal/My-LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/2058-concatenation-of-array) |
 ## Math
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abhi0pal/My-LeetCode/tree/master/0029-divide-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Abhi0pal/My-LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
