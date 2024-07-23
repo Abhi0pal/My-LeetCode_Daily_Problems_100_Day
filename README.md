@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abhi0pal/My-LeetCode/tree/master/0048-rotate-image) |
+| [0605-can-place-flowers](https://github.com/Abhi0pal/My-LeetCode/tree/master/0605-can-place-flowers) |
 | [0898-transpose-matrix](https://github.com/Abhi0pal/My-LeetCode/tree/master/0898-transpose-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/Abhi0pal/My-LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -94,4 +95,8 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Abhi0pal/My-LeetCode/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/Abhi0pal/My-LeetCode/tree/master/0898-transpose-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Abhi0pal/My-LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
