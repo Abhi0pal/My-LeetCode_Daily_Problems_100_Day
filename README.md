@@ -61,6 +61,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abhi0pal/My-LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Abhi0pal/My-LeetCode/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/Abhi0pal/My-LeetCode/tree/master/0231-power-of-two) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abhi0pal/My-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Abhi0pal/My-LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abhi0pal/My-LeetCode/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/Abhi0pal/My-LeetCode/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Abhi0pal/My-LeetCode/tree/master/0605-can-place-flowers) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Abhi0pal/My-LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
