@@ -24,6 +24,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Abhi0pal/My-LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Abhi0pal/My-LeetCode/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/Abhi0pal/My-LeetCode/tree/master/0078-subsets) |
 | [0605-can-place-flowers](https://github.com/Abhi0pal/My-LeetCode/tree/master/0605-can-place-flowers) |
 | [0898-transpose-matrix](https://github.com/Abhi0pal/My-LeetCode/tree/master/0898-transpose-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/Abhi0pal/My-LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abhi0pal/My-LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Abhi0pal/My-LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Abhi0pal/My-LeetCode/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Abhi0pal/My-LeetCode/tree/master/0231-power-of-two) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Abhi0pal/My-LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
