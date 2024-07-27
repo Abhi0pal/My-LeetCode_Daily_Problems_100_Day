@@ -60,6 +60,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Abhi0pal/My-LeetCode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Abhi0pal/My-LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Abhi0pal/My-LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Abhi0pal/My-LeetCode/tree/master/0231-power-of-two) |
