@@ -99,6 +99,7 @@
 | [0029-divide-two-integers](https://github.com/Abhi0pal/My-LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Abhi0pal/My-LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Abhi0pal/My-LeetCode/tree/master/0231-power-of-two) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Abhi0pal/My-LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Matrix
 |  |
 | ------- |
