@@ -36,6 +36,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhi0pal/My-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/Abhi0pal/My-LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/2058-concatenation-of-array) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Abhi0pal/My-LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhi0pal/My-LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## String
 |  |
@@ -103,6 +104,7 @@
 | [0231-power-of-two](https://github.com/Abhi0pal/My-LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Abhi0pal/My-LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Abhi0pal/My-LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Matrix
 |  |
 | ------- |
