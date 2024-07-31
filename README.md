@@ -28,6 +28,7 @@
 | [0605-can-place-flowers](https://github.com/Abhi0pal/My-LeetCode/tree/master/0605-can-place-flowers) |
 | [0898-transpose-matrix](https://github.com/Abhi0pal/My-LeetCode/tree/master/0898-transpose-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/Abhi0pal/My-LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhi0pal/My-LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/1580-shuffle-the-array) |
@@ -70,6 +71,7 @@
 ## Counting
 |  |
 | ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Abhi0pal/My-LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Abhi0pal/My-LeetCode/tree/master/0049-group-anagrams) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
@@ -104,6 +107,7 @@
 | [0231-power-of-two](https://github.com/Abhi0pal/My-LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Abhi0pal/My-LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Abhi0pal/My-LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Matrix
 |  |
