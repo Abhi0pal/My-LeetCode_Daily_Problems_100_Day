@@ -39,6 +39,7 @@
 | [2058-concatenation-of-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/2058-concatenation-of-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Abhi0pal/My-LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhi0pal/My-LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Abhi0pal/My-LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## String
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Abhi0pal/My-LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Abhi0pal/My-LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Abhi0pal/My-LeetCode/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Matrix
 |  |
 | ------- |
