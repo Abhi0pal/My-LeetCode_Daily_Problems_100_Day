@@ -98,6 +98,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abhi0pal/My-LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Abhi0pal/My-LeetCode/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Abhi0pal/My-LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Abhi0pal/My-LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/0338-counting-bits) |
@@ -123,4 +124,8 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/0338-counting-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
