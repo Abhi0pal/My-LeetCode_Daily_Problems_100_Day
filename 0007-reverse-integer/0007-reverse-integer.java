@@ -5,7 +5,7 @@ class Solution {
         while (x != 0) {
             int n = x % 10;
             
-            // Check for overflow before updating rev
+            // Check for overflow before updating rev hello this is for the nothing
             if (rev > Integer.MAX_VALUE / 10 || (rev == Integer.MAX_VALUE / 10 && n > 7)) {
                 return 0;
             }
