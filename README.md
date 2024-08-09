@@ -23,6 +23,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Abhi0pal/My-LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Abhi0pal/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Abhi0pal/My-LeetCode/tree/master/0078-subsets) |
@@ -147,5 +148,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
