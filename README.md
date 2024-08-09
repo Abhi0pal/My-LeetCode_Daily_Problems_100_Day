@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Abhi0pal/My-LeetCode/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/0268-missing-number) |
 | [1319-unique-number-of-occurrences](https://github.com/Abhi0pal/My-LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Abhi0pal/My-LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -25,6 +26,7 @@
 | [0048-rotate-image](https://github.com/Abhi0pal/My-LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Abhi0pal/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Abhi0pal/My-LeetCode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/Abhi0pal/My-LeetCode/tree/master/0605-can-place-flowers) |
 | [0898-transpose-matrix](https://github.com/Abhi0pal/My-LeetCode/tree/master/0898-transpose-matrix) |
 | [1319-unique-number-of-occurrences](https://github.com/Abhi0pal/My-LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -67,6 +69,7 @@
 | [0029-divide-two-integers](https://github.com/Abhi0pal/My-LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Abhi0pal/My-LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Abhi0pal/My-LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abhi0pal/My-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Abhi0pal/My-LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
@@ -83,6 +86,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Abhi0pal/My-LeetCode/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/0268-missing-number) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
@@ -106,6 +110,7 @@
 | [0191-number-of-1-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Abhi0pal/My-LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Abhi0pal/My-LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Abhi0pal/My-LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -136,4 +141,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/0191-number-of-1-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
