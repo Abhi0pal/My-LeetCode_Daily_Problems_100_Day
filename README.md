@@ -29,6 +29,7 @@
 | [0049-group-anagrams](https://github.com/Abhi0pal/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/Abhi0pal/My-LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/Abhi0pal/My-LeetCode/tree/master/0605-can-place-flowers) |
 | [0898-transpose-matrix](https://github.com/Abhi0pal/My-LeetCode/tree/master/0898-transpose-matrix) |
@@ -105,6 +106,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhi0pal/My-LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
@@ -115,6 +117,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/Abhi0pal/My-LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Abhi0pal/My-LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/0338-counting-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Abhi0pal/My-LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Abhi0pal/My-LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
@@ -152,4 +155,5 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
