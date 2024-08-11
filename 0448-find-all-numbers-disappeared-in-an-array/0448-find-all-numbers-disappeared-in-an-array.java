@@ -19,9 +19,9 @@ class Solution {
 
         }
         
-       for(int j=0;j<nums.length;j++){
-        if(nums[j]!=j+1){
-            temp.add(j+1);
+       for(int index=0;index<nums.length;index++){
+        if(nums[index]!=index+1){
+            temp.add(index+1);
         }
        }
 
