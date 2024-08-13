@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Abhi0pal/My-LeetCode/tree/master/0049-group-anagrams) |
+| [0443-string-compression](https://github.com/Abhi0pal/My-LeetCode/tree/master/0443-string-compression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhi0pal/My-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhi0pal/My-LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Tree
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/Abhi0pal/My-LeetCode/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhi0pal/My-LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
