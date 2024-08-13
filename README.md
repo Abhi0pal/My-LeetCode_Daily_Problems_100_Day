@@ -14,6 +14,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/Abhi0pal/My-LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Abhi0pal/My-LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Abhi0pal/My-LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Abhi0pal/My-LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Design
 |  |
@@ -56,6 +57,7 @@
 | [0049-group-anagrams](https://github.com/Abhi0pal/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0443-string-compression](https://github.com/Abhi0pal/My-LeetCode/tree/master/0443-string-compression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhi0pal/My-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Abhi0pal/My-LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhi0pal/My-LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Tree
 |  |
