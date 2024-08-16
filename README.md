@@ -54,6 +54,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Abhi0pal/My-LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Abhi0pal/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0443-string-compression](https://github.com/Abhi0pal/My-LeetCode/tree/master/0443-string-compression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhi0pal/My-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
