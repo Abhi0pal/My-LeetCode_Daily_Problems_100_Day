@@ -6,6 +6,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Abhi0pal/My-LeetCode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Abhi0pal/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -55,6 +56,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Abhi0pal/My-LeetCode/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Abhi0pal/My-LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Abhi0pal/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0443-string-compression](https://github.com/Abhi0pal/My-LeetCode/tree/master/0443-string-compression) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Abhi0pal/My-LeetCode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Abhi0pal/My-LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Abhi0pal/My-LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Abhi0pal/My-LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/Abhi0pal/My-LeetCode/tree/master/0231-power-of-two) |
