@@ -45,6 +45,7 @@
 | [1580-shuffle-the-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Abhi0pal/My-LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Abhi0pal/My-LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhi0pal/My-LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/Abhi0pal/My-LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/2058-concatenation-of-array) |
@@ -58,6 +59,7 @@
 | [0049-group-anagrams](https://github.com/Abhi0pal/My-LeetCode/tree/master/0049-group-anagrams) |
 | [0443-string-compression](https://github.com/Abhi0pal/My-LeetCode/tree/master/0443-string-compression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhi0pal/My-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Abhi0pal/My-LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Abhi0pal/My-LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhi0pal/My-LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Tree
