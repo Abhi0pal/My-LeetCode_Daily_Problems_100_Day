@@ -62,6 +62,7 @@
 | [0443-string-compression](https://github.com/Abhi0pal/My-LeetCode/tree/master/0443-string-compression) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhi0pal/My-LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Abhi0pal/My-LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Abhi0pal/My-LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Abhi0pal/My-LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhi0pal/My-LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 ## Tree
@@ -96,6 +97,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Abhi0pal/My-LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Abhi0pal/My-LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Prefix Sum
 |  |
 | ------- |
