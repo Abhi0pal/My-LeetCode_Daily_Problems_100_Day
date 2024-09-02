@@ -37,6 +37,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Abhi0pal/My-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Abhi0pal/My-LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhi0pal/My-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Abhi0pal/My-LeetCode/tree/master/0645-set-mismatch) |
