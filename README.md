@@ -12,6 +12,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhi0pal/My-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Abhi0pal/My-LeetCode/tree/master/0645-set-mismatch) |
+| [0940-fruit-into-baskets](https://github.com/Abhi0pal/My-LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1319-unique-number-of-occurrences](https://github.com/Abhi0pal/My-LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Abhi0pal/My-LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -40,6 +41,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Abhi0pal/My-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Abhi0pal/My-LeetCode/tree/master/0645-set-mismatch) |
 | [0898-transpose-matrix](https://github.com/Abhi0pal/My-LeetCode/tree/master/0898-transpose-matrix) |
+| [0940-fruit-into-baskets](https://github.com/Abhi0pal/My-LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1319-unique-number-of-occurrences](https://github.com/Abhi0pal/My-LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -181,4 +183,5 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Abhi0pal/My-LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/Abhi0pal/My-LeetCode/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
