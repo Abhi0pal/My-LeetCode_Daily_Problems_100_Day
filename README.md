@@ -101,6 +101,7 @@
 | [0231-power-of-two](https://github.com/Abhi0pal/My-LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Abhi0pal/My-LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+| [1013-fibonacci-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abhi0pal/My-LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Abhi0pal/My-LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
@@ -172,6 +173,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/Abhi0pal/My-LeetCode/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Abhi0pal/My-LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+| [1013-fibonacci-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Abhi0pal/My-LeetCode/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -201,4 +204,8 @@
 | [0713-subarray-product-less-than-k](https://github.com/Abhi0pal/My-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/Abhi0pal/My-LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abhi0pal/My-LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Abhi0pal/My-LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
